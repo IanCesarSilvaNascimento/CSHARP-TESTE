@@ -55,7 +55,7 @@ Console.WriteLine("Qual caminho deseja salvar?");
             }
 ```
 ## Utilização
-Para utilizar a aplicação simplesmente use comando:
+Para utilizar a aplicação simplesmente use o comando dentro do diretório no terminal:
 
 ```bash
 dotnet run
