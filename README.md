@@ -1,6 +1,3 @@
-# HtmlEditor
-Editor de texto desenvolvido com intuito de testar fundamentos da linguagem C#
-
 ## Program.cs
 Contém o método principal apenas iniciando com um método menu. 
 
